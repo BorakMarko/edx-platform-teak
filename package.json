@@ -129,5 +129,5 @@
     "stylelint-formatter-pretty": "4.0.1",
     "webpack-cli": "^5.1.4"
   },
-  "branch": "main"
+  "branch": "relase/teak"
 }
