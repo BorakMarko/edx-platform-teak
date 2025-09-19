@@ -128,5 +128,6 @@
     "string-replace-loader": "^3.1.0",
     "stylelint-formatter-pretty": "4.0.1",
     "webpack-cli": "^5.1.4"
-  }
+  },
+  "branch": "main"
 }
